@@ -1,1 +1,1 @@
-# Privacy-preserving-Deep-Learning
+# CHE: Channel-wise Homomorphic Encryption
